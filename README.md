@@ -1,1 +1,1 @@
-Currently in love with React 🔥
+Self taught 🔥
