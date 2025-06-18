@@ -12,7 +12,7 @@
 
   🖥️ I'm currently learning **Laravel, Postgre** and **Docker**
 
-  🤝 I'm open to be mutuals
+  ✍🏼 Self-taught programmer
 
   🤓 In Death Stranding, Sam often unknowingly jumped to Amelie’s Beach when he was a child
   
